@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+arch
+requests
+pandas-datareader
+openai
+ipython
+jupyter
